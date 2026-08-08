@@ -9,7 +9,7 @@ Currently, I am actively building my portfolio and preparing for an MSc in Data 
 * **Databases:** SQL Server
 * **Data Architecture:** Medallion Architecture (Bronze, Silver, Gold), Star Schema, Data Warehousing
 * **Tools & Libraries:** Pandas, Power Query, Excel, Git/GitHub,
-* **Familiar With:**  Airflow, Databricks , Docker
+* **Familiar With:** SQLAlchemy,Airflow, Databricks , Docker
 
 ### 🚀 What I'm Building Right Now
 I am treating my portfolio like real-world Agile sprints. My current focus:
