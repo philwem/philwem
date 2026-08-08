@@ -1,5 +1,3 @@
-<img width="1760" height="778" alt="image" src="https://github.com/user-attachments/assets/cf59f927-1823-42e2-a51c-9ad2062cfc3f" />
-
 
 # Hi there, I'm Philip Mawuli Wemegah 👋
 
