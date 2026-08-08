@@ -1,3 +1,5 @@
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/f6a41fe5-626e-43ec-a43d-65f5c964f3b4" />
+
 # Hi there, I'm Philip Mawuli Wemegah 👋
 
 I am a Data Engineering enthusiast based in Accra, Ghana. My ultimate career vision is to leverage data engineering and technology to optimize and improve transport systems through data-driven solutions. 
