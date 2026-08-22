@@ -6,8 +6,8 @@ I am a Data Engineering enthusiast based in Accra, Ghana. My ultimate career vis
 Currently, I am actively building my portfolio and preparing for an MSc in Data Engineering .
 
 ### 🛠️ Technical Arsenal
-* **Languages:** Python, SQL (T-SQL)
-* **Databases:** SQL Server
+* **Languages:** Python, SQL 
+* **Databases:** SQL Server,DuckDB
 * **Data Architecture:** Medallion Architecture (Bronze, Silver, Gold), Star Schema, Data Warehousing
 * **Tools & Libraries:** Pandas, Power Query, Excel, Git/GitHub,
 * **Familiar With:** SQLAlchemy,Airflow, Databricks , Docker
